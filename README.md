@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Platform 2024 (MySQL + Python)
+# 📊 Sales Analysis Platform (MySQL + Python)
 
 A real-time backend project for storing, analyzing, and managing sales data using **Python and MySQL**. This project is ideal for learning CRUD operations, MySQL integration, and basic analytics using Pandas and Matplotlib.
 
